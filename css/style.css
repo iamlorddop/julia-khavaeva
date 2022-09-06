@@ -321,6 +321,11 @@ body {
 	font-family: 'Oswald', sans-serif;
 	letter-spacing: 4%;
 	line-height: 36px;
+	transition: 0.1s all ease-in;
+}
+
+.contact__text a:hover {
+	font-weight: 400;
 }
 
 .social {
